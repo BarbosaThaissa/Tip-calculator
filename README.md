@@ -1,4 +1,4 @@
-<h1 align="center">Law Firm Website
+<h1 align="center">Simple Tip Calculator
 </h1>
 
 <p aling="center">
