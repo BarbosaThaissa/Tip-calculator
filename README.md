@@ -33,7 +33,7 @@ This project was developed with the following technology:
 
 I created a Simple Tip Calculator to train HTML, CSS and JavaScrip.
 
-Web project: https://barbosathaissa.github.io/Law-Firm-Website/
+Web project: https://barbosathaissa.github.io/Tip-calculator/
 
 ## :memo: Licença
 
